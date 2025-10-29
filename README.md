@@ -21,4 +21,4 @@ Notes:
 1. Install Ultraleap hyperion v6  https://www.ultraleap.com/downloads/leap-controller/
 2. Git clone their Python bindings  https://github.com/ultraleap/leapc-python-bindings.git
 3. I had to compile the leap\_cffi module to get it to work https://github.com/ultraleap/leapc-python-bindings?tab=readme-ov-file#missing-compiled-module
-4. Install python and Python-OSC: "pip install Python-OSC"
+4. Install Python-OSC: "pip install Python-OSC"
