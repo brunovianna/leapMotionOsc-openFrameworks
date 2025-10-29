@@ -147,7 +147,7 @@ void ofApp::draw(){
 
 	// Draw right hand mesh
 
-	ofSetColor(0, 200, 255);
+	ofSetColor(100, 255, 200);
 	ofSetLineWidth(2);
 	rHandNode.transformGL(); // apply position + orientation
 	rHandMesh.draw();
