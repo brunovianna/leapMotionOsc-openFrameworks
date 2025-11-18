@@ -22,3 +22,9 @@ Notes:
 2. Git clone their Python bindings  https://github.com/ultraleap/leapc-python-bindings.git
 3. I had to compile the leap\_cffi module to get it to work https://github.com/ultraleap/leapc-python-bindings?tab=readme-ov-file#missing-compiled-module
 4. Install Python-OSC: "pip install Python-OSC"
+
+
+
+#### Run
+
+* Go into the python folder in this repo (under the root folder) and run "python leap_osc_sender.py". The script will start sending OSC to the localhost on port 12345.
