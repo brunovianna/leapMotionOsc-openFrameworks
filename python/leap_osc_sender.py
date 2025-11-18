@@ -31,7 +31,7 @@ Data Format:
     - Position: [x, y, z] in millimeters
     - Orientation: Quaternion [w, x, y, z]
     - Update rate: ~100Hz
-    - Port: 1235 (localhost)
+    - Port: 12345 (localhost)
 """
 
 import leap
